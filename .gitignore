@@ -1,0 +1,39 @@
+.#*
+\#*\#
+*~
+.CACHE
+.DS_Store
+.cljs_rhino_repl
+.dir-locals.el
+.env
+dev-resources/.env-override
+.idea
+.lein-*
+.nrepl-*
+.solano*
+/mochawesome-report
+/target
+log4j.log
+/test-scripts
+centriq-web.iml
+data model.gv
+data model.pdf
+resources/public/compiled
+target
+figwheel_server.log
+*.iml
+TAGS
+.cider-repl-history*
+scratch.clj
+.env.*
+.env-*
+node_modules/
+resources/public/js/
+.memoized/
+*.pem
+
+# Put your local output files in the `out` directory or suffix them with `.out`
+out
+*.out
+docs/schema
+env-overrides.edn
