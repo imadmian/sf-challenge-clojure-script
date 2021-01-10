@@ -9,7 +9,7 @@ This information is essential for us since if we know that we have a Pillbox in 
 
 ### Part I - Parsing the input commands
 
-The first part of the assignment is to parse the input data to determine how many locations on the grid that are currently active. The input data is found in the file [input-data.txt](input-data.txt).
+The first part of the assignment is to parse the input data to determine how many locations on the grid that are currently active. The input data is found in the file [resources/input-data.txt](resources/input-data.txt).
 
 The input file contains commands that specify if the locations in a given sub-grid should be activated, deactivated or toggled. At the beginning all locations were deactivated. Toggling a location means that it goes from deactivated to activated or from activated to deactivated.
 
