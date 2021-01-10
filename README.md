@@ -53,3 +53,9 @@ You may choose any programming language but please consider that the ones we mai
 1. Clojure and ClojureScript
 2. JavaScript
 3. Ruby
+
+# Challenge Solution: 
+The Languages & libraries I used to complete this task are: 
+- Clojure
+- Clojurescript (reagent)
+- HTML Canvas 
